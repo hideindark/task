@@ -1,1 +1,2 @@
-github learning test
+Git learning test.
+Second test.
